@@ -1,0 +1,15 @@
+.dropdown-menu {
+  background-color: #000;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #262626;
+  text-decoration: none;
+  background-color: #151515;
+}
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
